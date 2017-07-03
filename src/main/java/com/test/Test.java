@@ -6,6 +6,6 @@ package com.test;
 public class Test {
 
     public static void main(String[] args) {
-        System.out.println("This is my first Git");
+        System.out.println("This is my first Git test");
     }
 }
